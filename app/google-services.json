@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036779455025",
+    "project_id": "university-department-ap-c1d08",
+    "storage_bucket": "university-department-ap-c1d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036779455025:android:b89866fdc10f0ff3b28b10",
+        "android_client_info": {
+          "package_name": "com.siddiq1908.universitydepartmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036779455025-bdr3rba6lu6qjrjqp0rissl4ihrqmruf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDob56cnk-STPf26syeWkO-vFreniwPv98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036779455025-bdr3rba6lu6qjrjqp0rissl4ihrqmruf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
